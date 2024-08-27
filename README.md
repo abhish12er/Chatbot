@@ -1,7 +1,7 @@
 # EchoAI
 
 This project is a simple chatbot interface that interacts with OpenAI's GPT-3.5 model through the OpenAI API. The chatbot receives user input, sends it to the OpenAI API, and displays the response in a conversational format. The front-end is built using HTML, CSS, and JavaScript. The OpenAI API processes the chatbot's responses based on the user’s input.
-<img src="images/login.png" alt="VibeChat Logo" width="500>
+<img src="readmeimage/new.png" alt="VibeChat Logo" width="500>
 
 
 
